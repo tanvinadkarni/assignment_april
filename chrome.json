@@ -1,0 +1,40 @@
+
+{
+  "startTime": "2020-03-13T17:34:14.429Z",
+  "endTime": "2020-03-13T17:34:15.882Z",
+  "userAgents": [
+    "Chrome"
+  ],
+  "passed": 1,
+  "total": 2,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Tests for feature 1",
+      "meta": {
+        "feature": "Feature 1",
+        "type": "sequential"
+      },
+      "tests": [
+        {
+          "name": "Collecting information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4936,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "Button does not click",
+          "meta": {},
+          "errs": ['Can not click this item'],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
+

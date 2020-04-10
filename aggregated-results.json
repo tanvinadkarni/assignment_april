@@ -1,0 +1,75 @@
+
+
+{
+    "passed": 6,
+    "total": 7,
+    "failed": 1,
+    "skipped": 0,
+    "name": "Feature 1",
+    "tests": [
+         {
+          "name": "Collecting information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4936,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Safari"
+        },
+        {
+          "name": "Check presence of this object",
+          "meta": {},
+          "errs": [],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Safari"
+        },
+        {
+          "name": "Collecting information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4936,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Chrome"
+        },
+        {
+          "name": "Button does not click",
+          "meta": {},
+          "errs": ['Can not click this item'],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Chrome"
+        },
+         {
+          "name": "Collecting information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4936,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Edge Chromium"
+        },
+        {
+          "name": "Clicking a link",
+          "meta": {},
+          "errs": [],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Edge Chromium"
+        },
+        {
+          "name": "Check presence of this element",
+          "meta": {},
+          "errs": [],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false,
+          "userAgent": "Edge Chromium"
+        }
+     ], 
+  }
+

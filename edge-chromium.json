@@ -1,0 +1,48 @@
+
+
+{
+  "startTime": "2020-03-13T17:34:20.429Z",
+  "endTime": "2020-03-13T17:34:22.882Z",
+  "userAgents": [
+    "Edge Chromium"
+  ],
+  "passed": 3,
+  "total": 3,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Tests for feature 1",
+      "meta": {
+        "feature": "Feature 1",
+        "type": "sequential"
+      },
+      "tests": [
+        {
+          "name": "Collecting information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4936,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "Clicking a link",
+          "meta": {},
+          "errs": [],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false
+        },
+                {
+          "name": "Check presence of this element",
+          "meta": {},
+          "errs": [],
+          "durationMs": 159,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
